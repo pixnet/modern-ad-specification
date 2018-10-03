@@ -2,6 +2,7 @@
 ## 程式範例
 ```
 <div
+    data-hashid=""
     data-click-url=""
     data-file=""
     data-file2=""
@@ -10,11 +11,12 @@
     data-video-callback-url=""
     data-video-align=""
 >
-<!-- Your script -->    
+<!-- Your script -->
 </div>
 ```
 
 ## 屬性說明
+ - data-hashid: 廣告代碼
  - click-url: 點擊圖片後導向連結
  - file: 第一層 素材檔案，.png / .jpg / .gif / .html / .htm 請依據副檔名來判斷呈現的方式，其中 .html/.htm 以 iframe 方式載入
  - file2: 第二層 素材檔案，同第一層素材說明

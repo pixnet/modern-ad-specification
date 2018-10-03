@@ -3,6 +3,7 @@
 ## 程式範例
 ```
 <div
+    data-hashid=""
     data-type=""
     data-click-url=""
     data-file=""
@@ -11,11 +12,12 @@
     data-video-callback-url=""
     data-video-align=""
 >
-<!-- Your script -->    
+<!-- Your script -->
 </div>
 ```
 
 ## 屬性說明
+- data-hashid: 廣告代碼
 - data-type: 素材類型有下列的幾種
   - video：影音＋背景圖
   - image：圖像
