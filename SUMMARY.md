@@ -5,5 +5,6 @@
 * [旋轉方塊](cube.md)
 * [Slider](slider.md)
 * [刮刮樂](scratch-off.md)
+* [Crazy Open](crazy-open.md)
 * [Slide Open](slide-open.md)
 
